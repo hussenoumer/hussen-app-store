@@ -106,6 +106,7 @@ export default function RootLayout({
         <meta name="application-name" content="Hussen App Store" />
         <meta name="msapplication-TileColor" content="#0d6b3e" />
         <meta name="msapplication-TileImage" content="/logo.png" />
+        <meta name="google-site-verification" content="YpX63HMmw7sbqe2Kr65Ew6jcXk1BmPQsrF4u7qAsze4" />
       </head>
       <body className={`${geistSans.variable} antialiased bg-background text-foreground`}>
         {children}
