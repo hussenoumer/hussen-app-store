@@ -201,7 +201,7 @@ export default function Home() {
             }
             // OneSignal push notifications (free - add your app ID at onesignal.com)
             window.OneSignal = window.OneSignal || [];
-            // OneSignal.push(function() { OneSignal.init({ appId: 'YOUR-ONESIGNAL-APP-ID' }); });
+             OneSignal.push(function() { OneSignal.init({ appId: 'dff80e61-f2f3-4c79-ba59-fa7fab553283' }); });
           `,
         }}
       />
